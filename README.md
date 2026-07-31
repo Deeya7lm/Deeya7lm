@@ -1,1 +1,28 @@
-Aspiring QA Engineer | Manual Testing | Cypress | JavaScript | API Testing | Git | Learning CI/CD
+# Cypress Automation
+
+## Project
+
+Automation testing of SauceDemo using Cypress.
+
+## Features
+
+- Login Test
+- Logout Test
+- Add to Cart
+- Remove Item
+- Checkout
+- API Testing
+
+## Technologies
+
+- Cypress
+- JavaScript
+- Node.js
+
+## Installation
+
+npm install
+
+## Run
+
+npx cypress open
