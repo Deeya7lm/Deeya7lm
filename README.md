@@ -1,1 +1,1 @@
-this is your profile description in github.
+Aspiring QA Engineer | Manual Testing | Cypress | JavaScript | API Testing | Git | Learning CI/CD
